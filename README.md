@@ -1,19 +1,20 @@
-# Hi there , I'm Ahmed Alnahrawy
+# Ahmed Amr Alnahrawy — AI & Data Engineer
 
-**Freelance AI & Data Engineer** | Medical Imaging AI Enthusiast
+Freelance AI/Data Engineer specializing in medical imaging AI, ML pipelines, and applied data science. Currently completing graduation project **DermaDx** — an AI-powered skin disease detection system.
 
-I specialize in building intelligent systems and robust data pipelines. My recent graduation project, **DermaDx**, focuses on leveraging AI for dermatological disease detection.
+### 🚀 Skills
+- **AI & Machine Learning:** Python, TensorFlow/Keras, FastAI, Scikit-learn
+- **Web & API Development:** Streamlit, FastAPI, ASP.NET MVC, Flask
+- **Data & DevOps:** SQL, Docker
 
-###  Skills
-- **Languages:** Python, SQL
-- **Machine Learning:** Scikit-learn, TensorFlow/Keras
-- **Web & Deployment:** Streamlit, Flask
-- **Data Engineering:** ETL, Data Cleaning, Pipeline Automation
+### 🏆 Featured Projects
+- [Pneumonia-detector](https://github.com/Ahmed-Na7rawy/Pneumonia-detector) — Desktop GUI app for detecting pneumonia from chest X-ray images using FastAI.
+- [AI-Powered-ATS-Platform](https://github.com/Ahmed-Na7rawy/AI-Powered-ATS-Platform) — Full-stack ATS system with resume scoring and OCR.
+- [AI-Resume-Screener](https://github.com/Ahmed-Na7rawy/AI-Resume-Screener) — NLP-based tool for ranking resumes against job descriptions.
+- [ML-Notebooks](https://github.com/Ahmed-Na7rawy/ML-Notebooks) — A curated collection of 10 applied machine learning notebooks.
 
-### Top Projects
-1. [AI-Powered ATS Platform](https://github.com/Ahmed-Na7rawy/AI-Powered-ATS-Platform) - Resume Scoring & OCR system.
-2. [Sleep Health Classifier](https://github.com/Ahmed-Na7rawy/sleep-health-classifier) - ML web app predicting sleep health outcomes.
-3. [Pneumonia Detector](https://github.com/Ahmed-Na7rawy/Pneumonia-detector) - Deep learning model for chest X-ray analysis.
+### 🌱 Currently working on
+- **DermaDx**: A 4-class skin condition classifier leveraging VGG19 for automated dermatological diagnosis.
 
-###  Currently working on
-- **DermaDx**: Developing an advanced AI system for dermatological diagnostics.
+---
+📫 How to reach me: [GitHub Profile](https://github.com/Ahmed-Na7rawy)
