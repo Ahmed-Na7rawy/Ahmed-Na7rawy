@@ -4,19 +4,19 @@ Freelance Data Scientist and ML Engineer with a focus on healthcare AI, business
 
 ---
 
-### 🔭 What I Do
+###   What I Do
 - **Exploratory Data Analysis & Business Insights** — turning raw data into actionable recommendations
 - **Machine Learning Model Development** — classification, regression, forecasting, and anomaly detection
 - **Medical Imaging AI** — deep learning for diagnostic imaging (chest X-ray, dermatology)
 - **NLP & Text Analytics** — text classification, sentiment analysis, Arabic NLP
 
-### 🚀 Skills
+###   Skills
 - **AI & Machine Learning:** Python, TensorFlow/Keras, FastAI, Scikit-learn
 - **Data & Analytics:** Pandas, NumPy, SQL, Plotly, Matplotlib, Seaborn
 - **Web & Deployment:** Streamlit, FastAPI, ASP.NET MVC, Flask, Dash
 - **DevOps:** Docker, Git
 
-### 🏆 Featured Projects
+###   Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -29,13 +29,13 @@ Freelance Data Scientist and ML Engineer with a focus on healthcare AI, business
 | [Pneumonia-detector](https://github.com/Ahmed-Na7rawy/Pneumonia-detector) | Desktop GUI for detecting pneumonia from chest X-rays using FastAI |
 | [AI-Powered-ATS-Platform](https://github.com/Ahmed-Na7rawy/AI-Powered-ATS-Platform) | Full-stack ATS system with resume scoring and OCR |
 
-### 🌱 Currently Learning
+###   Currently Learning
 - Advanced Time Series Forecasting
 - Arabic NLP
 - MLOps & Model Deployment
 
-### 🔬 Currently Working On
+###   Currently Working On
 - **DermaDx** — A 4-class skin condition classifier leveraging VGG19 for automated dermatological diagnosis (graduation project)
 
 ---
-📫 How to reach me: [GitHub Profile](https://github.com/Ahmed-Na7rawy)
+  How to reach me: [GitHub Profile](https://github.com/Ahmed-Na7rawy)
