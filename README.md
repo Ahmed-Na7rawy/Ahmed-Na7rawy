@@ -4,7 +4,7 @@ Freelance AI/Data Engineer specializing in medical imaging AI, ML pipelines, and
 
 ###  Skills
 - **AI & Machine Learning:** Python, TensorFlow/Keras, FastAI, Scikit-learn
-- **Web & API Development:** Streamlit, FastAPI, ASP.NET MVC, Flask
+- **Web & API Development:** Streamlit, FastAPI, Flask
 - **Data & DevOps:** SQL, Docker
 
 ###  Featured Projects
