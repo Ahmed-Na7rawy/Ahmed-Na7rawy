@@ -20,7 +20,11 @@ Freelance AI/Data Engineer specializing in medical imaging AI, ML pipelines, and
 ###  Portfolio 
 (https://ahmed-na7rawy-portfolio.vercel.app/) 
 ---
-  How to reach me: [GitHub Profile](https://github.com/Ahmed-Na7rawy/
-[Email] (Engahmedalna7rway@gmail.com) 
+  How to reach me: [GitHub Profile]
+(https://github.com/Ahmed-Na7rawy) 
+
+[Email]
+(Engahmedalna7rway@gmail.com)
+
 [LinkedIn] (https://www.linkedin.com/in/ahmed-amr-alnahrawy)
  
