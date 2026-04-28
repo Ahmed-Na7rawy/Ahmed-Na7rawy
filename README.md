@@ -1,27 +1,41 @@
-# Ahmed Amr Alnahrawy — AI & Data Engineer
+# Ahmed Amr Alnahrawy — Data Scientist & ML Engineer
 
-Freelance AI/Data Engineer specializing in medical imaging AI, ML pipelines, and applied data science. Currently completing graduation project **DermaDx** — an AI-powered skin disease detection system.
-
-### Skills
-- **AI & Machine Learning:** Python, TensorFlow/Keras, FastAI, Scikit-learn
-- **Web & API Development:** Streamlit, FastAPI, Flask
-- **Data & DevOps:** SQL, Docker
-
-### Featured Projects
-- [Pneumonia-detector](https://github.com/Ahmed-Na7rawy/Pneumonia-detector) — Desktop GUI app for detecting pneumonia from chest X-ray images using FastAI.
-- [AI-Powered-ATS-Platform](https://github.com/Ahmed-Na7rawy/AI-Powered-ATS-Platform) — Full-stack ATS system with resume scoring and OCR.
-- [AI-Resume-Screener](https://github.com/Ahmed-Na7rawy/AI-Resume-Screener) — NLP-based tool for ranking resumes against job descriptions.
-- [ML-Notebooks](https://github.com/Ahmed-Na7rawy/ML-Notebooks) — A curated collection of 10 applied machine learning notebooks.
-
-### Currently working on
-- **DermaDx**: A 4-class skin condition classifier leveraging VGG19 for automated dermatological diagnosis.
+Freelance Data Scientist and ML Engineer with a focus on healthcare AI, business analytics, and NLP. I turn messy data into decisions. Currently building medical imaging AI at a radiology center and completing my graduation project **DermaDx** — a skin disease detection system using VGG19.
 
 ---
 
-### Portfolio
-[https://ahmed-na7rawy-portfolio.vercel.app/](https://ahmed-na7rawy-portfolio.vercel.app/)
+### 🔭 What I Do
+- **Exploratory Data Analysis & Business Insights** — turning raw data into actionable recommendations
+- **Machine Learning Model Development** — classification, regression, forecasting, and anomaly detection
+- **Medical Imaging AI** — deep learning for diagnostic imaging (chest X-ray, dermatology)
+- **NLP & Text Analytics** — text classification, sentiment analysis, Arabic NLP
 
-### How to reach me
-- [GitHub Profile](https://github.com/Ahmed-Na7rawy)
-- [Email](mailto:Engahmedalna7rway@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/ahmed-amr-alnahrawy)
+### 🚀 Skills
+- **AI & Machine Learning:** Python, TensorFlow/Keras, FastAI, Scikit-learn
+- **Data & Analytics:** Pandas, NumPy, SQL, Plotly, Matplotlib, Seaborn
+- **Web & Deployment:** Streamlit, FastAPI, ASP.NET MVC, Flask, Dash
+- **DevOps:** Docker, Git
+
+### 🏆 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [ecommerce-sales-analysis](https://github.com/Ahmed-Na7rawy/ecommerce-sales-analysis) | End-to-end business data analysis on e-commerce sales data |
+| [time-series-sales-forecasting](https://github.com/Ahmed-Na7rawy/time-series-sales-forecasting) | Sales forecasting comparing Prophet, ARIMA, and XGBoost |
+| [arabic-sentiment-analysis](https://github.com/Ahmed-Na7rawy/arabic-sentiment-analysis) | Arabic text sentiment classification using CAMeL Tools |
+| [interactive-dashboard-plotly](https://github.com/Ahmed-Na7rawy/interactive-dashboard-plotly) | Interactive business dashboard built with Plotly Dash |
+| [sql-python-analytics](https://github.com/Ahmed-Na7rawy/sql-python-analytics) | Business analytics pipeline combining SQL and Python |
+| [ML-Notebooks](https://github.com/Ahmed-Na7rawy/ML-Notebooks) | 10 applied data science notebooks exploring real-world datasets |
+| [Pneumonia-detector](https://github.com/Ahmed-Na7rawy/Pneumonia-detector) | Desktop GUI for detecting pneumonia from chest X-rays using FastAI |
+| [AI-Powered-ATS-Platform](https://github.com/Ahmed-Na7rawy/AI-Powered-ATS-Platform) | Full-stack ATS system with resume scoring and OCR |
+
+### 🌱 Currently Learning
+- Advanced Time Series Forecasting
+- Arabic NLP
+- MLOps & Model Deployment
+
+### 🔬 Currently Working On
+- **DermaDx** — A 4-class skin condition classifier leveraging VGG19 for automated dermatological diagnosis (graduation project)
+
+---
+📫 How to reach me: [GitHub Profile](https://github.com/Ahmed-Na7rawy)
