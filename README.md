@@ -1,21 +1,27 @@
-# Project Title
+# Ahmed Amr Alnahrawy — AI & Data Engineer
 
-A brief description of your project.
+Freelance AI/Data Engineer specializing in medical imaging AI, ML pipelines, and applied data science. Currently completing graduation project **DermaDx** — an AI-powered skin disease detection system.
 
-# Installation
+### Skills
+- **AI & Machine Learning:** Python, TensorFlow/Keras, FastAI, Scikit-learn
+- **Web & API Development:** Streamlit, FastAPI, Flask
+- **Data & DevOps:** SQL, Docker
 
-Instructions on how to install the project.
+### Featured Projects
+- [Pneumonia-detector](https://github.com/Ahmed-Na7rawy/Pneumonia-detector) — Desktop GUI app for detecting pneumonia from chest X-ray images using FastAI.
+- [AI-Powered-ATS-Platform](https://github.com/Ahmed-Na7rawy/AI-Powered-ATS-Platform) — Full-stack ATS system with resume scoring and OCR.
+- [AI-Resume-Screener](https://github.com/Ahmed-Na7rawy/AI-Resume-Screener) — NLP-based tool for ranking resumes against job descriptions.
+- [ML-Notebooks](https://github.com/Ahmed-Na7rawy/ML-Notebooks) — A curated collection of 10 applied machine learning notebooks.
 
-# Usage
+### Currently working on
+- **DermaDx**: A 4-class skin condition classifier leveraging VGG19 for automated dermatological diagnosis.
 
-Instructions on how to use the project.
+---
 
-# Links
+### Portfolio
+[https://ahmed-na7rawy-portfolio.vercel.app/](https://ahmed-na7rawy-portfolio.vercel.app/)
 
-- [Link 1](https://example.com)
-- [Link 2](https://example.com)  
-- [Link 3](https://example.com)  
-
-# License
-
-This project is licensed under the MIT License.
+### How to reach me
+- [GitHub Profile](https://github.com/Ahmed-Na7rawy)
+- [Email](mailto:Engahmedalna7rway@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ahmed-amr-alnahrawy)
