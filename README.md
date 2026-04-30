@@ -13,7 +13,7 @@ Freelance Data Scientist and ML Engineer with a focus on healthcare AI, business
 ###   Skills
 - **AI & Machine Learning:** Python, TensorFlow/Keras, FastAI, Scikit-learn
 - **Data & Analytics:** Pandas, NumPy, SQL, Plotly, Matplotlib, Seaborn
-- **Web & Deployment:** Streamlit, FastAPI, ASP.NET MVC, Flask, Dash
+- **Web & Deployment:** Streamlit, FastAPI, Flask
 - **DevOps:** Docker, Git
 
 ###   Featured Projects
