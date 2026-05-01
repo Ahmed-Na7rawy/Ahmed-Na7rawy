@@ -20,9 +20,7 @@ Freelance Data Scientist and ML Engineer with a focus on healthcare AI, business
 
 | Project | Description |
 |---------|-------------|
-| [ecommerce-sales-analysis](https://github.com/Ahmed-Na7rawy/ecommerce-sales-analysis) | End-to-end business data analysis on e-commerce sales data |
 | [time-series-sales-forecasting](https://github.com/Ahmed-Na7rawy/time-series-sales-forecasting) | Sales forecasting comparing Prophet, ARIMA, and XGBoost |
-| [arabic-sentiment-analysis](https://github.com/Ahmed-Na7rawy/arabic-sentiment-analysis) | Arabic text sentiment classification using CAMeL Tools |
 | [interactive-dashboard-plotly](https://github.com/Ahmed-Na7rawy/interactive-dashboard-plotly) | Interactive business dashboard built with Plotly Dash |
 | [sql-python-analytics](https://github.com/Ahmed-Na7rawy/sql-python-analytics) | Business analytics pipeline combining SQL and Python |
 | [ML-Notebooks](https://github.com/Ahmed-Na7rawy/ML-Notebooks) | 10 applied data science notebooks exploring real-world datasets |
@@ -31,7 +29,6 @@ Freelance Data Scientist and ML Engineer with a focus on healthcare AI, business
 
 ###   Currently Learning
 - Advanced Time Series Forecasting
-- Arabic NLP
 - MLOps & Model Deployment
 
 ###   Currently Working On
