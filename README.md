@@ -31,7 +31,7 @@ Freelance Data Scientist and ML Engineer with a focus on healthcare AI, business
 - MLOps & Model Deployment
 
 ###   Currently Working On
-- **DermaDx** — A 4-class skin condition classifier leveraging VGG19 for automated dermatological diagnosis (graduation project)
+- **DermaDx** — A 4-class skin condition classifier leveraging EffNetV2 for automated dermatological diagnosis (graduation project)
 
 ---
   How to reach me: [GitHub Profile](https://github.com/Ahmed-Na7rawy)
