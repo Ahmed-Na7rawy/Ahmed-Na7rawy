@@ -79,8 +79,8 @@
 ### GitHub Statistics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Na7rawy&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Na7rawy&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Ahmed-Na7rawy&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmed's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ahmed-Na7rawy&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
