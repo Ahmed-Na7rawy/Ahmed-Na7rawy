@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahmed-Na7rawy&theme=tokyonight" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com/?user=Ahmed-Na7rawy&theme=tokyonight&v=1" alt="GitHub Streak" width="98%" />
 </p>
 
 ---
