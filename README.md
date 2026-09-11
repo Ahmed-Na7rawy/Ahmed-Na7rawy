@@ -4,14 +4,13 @@
 
 <h1 align="center">Hey there! I'm Ahmed Amr Alnahrawy 👋</h1>
 <p align="center">
-  <strong>Freelance Data Scientist & Full-Stack Developer</strong><br>
-  Specializing in turning complex data into insights & building beautiful, interactive web experiences with <strong>React</strong> & <strong>Flask</strong>.
+  <strong>Software Engineer @ AWA Group | Full-Stack & Data Science</strong><br>
+  Building scalable full-stack enterprise systems with <strong>NestJS</strong>, <strong>TypeScript</strong>, & <strong>React</strong>, backed by deep experience in <strong>Data Science & Analytics</strong>.
 </p>
 
 <p align="center">
   <a href="https://github.com/Ahmed-Na7rawy"><img src="https://img.shields.io/github/followers/Ahmed-Na7rawy?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://www.linkedin.com/in/ahmed-alnahrawy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/Ahmed.na7rawy/"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://wa.me/201018613342"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="mailto:engahmedalna7rway@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -20,43 +19,40 @@
 
 ### What I Do
 
-- **Exploratory Data Analysis & Business Insights** — Turning raw, messy data into interactive charts and actionable insights.
-- **Front-End Web Design** — Crafting beautiful, responsive, and animated user interfaces using **React.js** and modern styling frameworks.
-- **Full-Stack Integration** — Powering interactive interfaces with lightweight, robust backends built using **Flask** and **FastAPI**.
-- **Machine Learning & AI Development** — Designing algorithms for classification, time-series forecasting, and computer vision (e.g. medical imaging).
+- **Full-Stack Software Engineering** — Architecting modular REST APIs, backend microservices, and clean interfaces using **NestJS**, **TypeScript**, **Node.js**, and **React**.
+- **Enterprise Internal Systems** — Building internal ERP tools, automated operational workflows, and high-performance management dashboards at **AWA Group**.
+- **Data Science & ML Engineering** — Turning complex datasets into predictive models, time-series sales forecasts, and automated data pipelines (**Python**, **Pandas**, **Scikit-Learn**).
+- **Web Scraping & Data Pipelines** — Developing automated web scraping and data extraction pipelines to feed analytical models and enterprise databases.
 
 ---
 
-### Tech Stack & Skills
+### Tech Stack & Capabilities
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4> Data & AI (No deletion, only additions)</h4>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-      <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-      <img src="https://img.shields.io/badge/Seaborn-3797a4?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-      <img src="https://img.shields.io/badge/FastAI-005A9C?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAI" />
+      <h4> Software Engineering & Backend</h4>
+      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb" alt="React" />
+      <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     </td>
     <td valign="top" width="50%">
-      <h4> Front-End & Full-Stack (React & Flask)</h4>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb" alt="React" />
+      <h4> Data Science & Machine Learning</h4>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+      <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
       <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
     </td>
   </tr>
 </table>
@@ -89,16 +85,8 @@
 
 ---
 
-### Currently Working On & Learning
-
-- **DermaDx** — A 6-class skin condition classifier leveraging EffNetV2 for automated dermatological diagnosis (Graduation Project).
-- **Advanced Time Series Forecasting** & MLOps deployment workflows.
-- Building interactive dashboard interfaces combining **React (Vite)** with **Flask RESTful APIs**.
-
----
-
 <p align="center">
   Let's connect!
   <br>
-  <b><a href="https://github.com/Ahmed-Na7rawy">GitHub Profile</a></b> • <b><a href="https://www.linkedin.com/in/ahmed-alnahrawy/">LinkedIn Profile</a></b> • <b><a href="https://www.facebook.com/Ahmed.na7rawy/">Facebook Profile</a></b> • <b><a href="https://wa.me/201018613342">WhatsApp Chat</a></b>
+  <b><a href="https://github.com/Ahmed-Na7rawy">GitHub Profile</a></b> • <b><a href="https://www.linkedin.com/in/ahmed-alnahrawy/">LinkedIn Profile</a></b> • <b><a href="https://wa.me/201018613342">WhatsApp Chat</a></b>
 </p>
